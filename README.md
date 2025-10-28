@@ -30,5 +30,5 @@ Defeat enemies, collect coins, and enjoy an atmospheric adventure with music and
 
 ## 📦 Build Requirements
 -.NET 8.0 SDK: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
--MonoGame Framework: https://docs.monogame.net/articles/getting_started/2_choosing_your_ide_visual_studio.html
+\-MonoGame Framework: https://docs.monogame.net/articles/getting_started/2_choosing_your_ide_visual_studio.html
 
