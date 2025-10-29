@@ -21,6 +21,7 @@ Defeat enemies, collect coins, and enjoy an atmospheric adventure with music and
 | Move Left | **A** |
 | Move Right | **D** |
 | Jump | **Spacebar** |
+| Roll | **H** |
 
 ---
 
