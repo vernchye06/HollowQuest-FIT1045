@@ -26,8 +26,10 @@ Defeat enemies, collect coins, and enjoy an atmospheric adventure with music and
 ---
 
 ## 🛠️ Installation & Running
-1. Open the `.sln` file in **Visual Studio**.  
-2. Click **Run ▶** or press **F5**.
+1. Extract the **Hollow Quest** and **Content** zip files.
+2. Put the **Content** folder into the **Hollow Quest** folder.
+3. Open the `.sln` file in **Visual Studio**.  
+4. Click **Run ▶** or press **F5**.
 
 ---
 
